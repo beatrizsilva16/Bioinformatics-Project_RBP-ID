@@ -1,6 +1,6 @@
 import subprocess
 
-def create_rbps_database(db_fasta_file, database_name):
+def create_database(db_fasta_file, database_name):
     process = subprocess.Popen(f" makeblastdb -in {db_fasta_file} -dbtype prot -out {database_name}", shell=True,
                                stdout=subprocess.PIPE)
 
