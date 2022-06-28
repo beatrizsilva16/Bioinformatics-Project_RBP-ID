@@ -1,0 +1,13 @@
+*.faa
+*.xml
+*.txt
+.idea
+*.pdb
+*.phr
+*.pin
+*.pjs
+*.pot
+*.psq
+*.ptf
+*.pto
+__pycache__
