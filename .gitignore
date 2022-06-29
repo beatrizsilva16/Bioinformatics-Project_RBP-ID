@@ -10,4 +10,7 @@
 *.psq
 *.ptf
 *.pto
+*.fas
+*.py
+*.gb
 __pycache__
