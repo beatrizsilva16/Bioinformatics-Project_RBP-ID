@@ -16,4 +16,4 @@ Besides the growing development of bioinformatics and the potential of
 these proteins, a tool able to identify them is still inexistent, a gap that
 needs to be filled.
 
-For the present project it was use the following complementary material :
+For the present project it was use the following complementary material : https://osf.io/tdu8k/.
