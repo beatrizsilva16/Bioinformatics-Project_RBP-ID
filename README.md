@@ -2,10 +2,8 @@
 
 Bacteriophages (phages) are viruses that infect only bacteria
 and are the most abundant biological entities on Earth. An important
-characteristic of phages is their high specificity to their host. This speci-
-ficity is mediate by proteins called receptor binding proteins - RBPs.
-These proteins are structures of the phage particle that recognize spe-
-cific molecules on the surface of bacterial cell walls. RBPs present an
+characteristic of phages is their high specificity to their host. This specificity is mediate by proteins called receptor binding proteins - RBPs.
+These proteins are structures of the phage particle that recognize specific molecules on the surface of bacterial cell walls. RBPs present an
 enormous potential in biotechnical applications, not only to allow the
 creation of tailor-made phages through genetic modification of phage
 RBP but also to create new weapons and new diagnostic methods tar-
